@@ -1,0 +1,11 @@
+.NavBar-wrapper{
+    height: 50px;
+    width: 100vw;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    justify-content: space-between; 
+}

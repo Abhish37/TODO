@@ -1,0 +1,13 @@
+.Footer{
+    height: 300px;
+    width: 100vw;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    justify-content: center;
+    align-items: center;
+}
+.Footer div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
