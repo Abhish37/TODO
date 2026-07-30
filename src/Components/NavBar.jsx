@@ -19,7 +19,7 @@ export default function NavBar(){
 
     return(
         <div className="NavBar-wrapper">
-            <div><Link to={"/"}>TodoByAsh</Link></div>
+            <div><Link to={"/"}>TodoByAbhish</Link></div>
             {IsLoggedInValue?<NavBarLoggedIn userName = {username}/>:<NavBarUnLogged/>}
         </div>
     )
